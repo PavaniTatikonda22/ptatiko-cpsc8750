@@ -1,0 +1,22 @@
+{
+  "name": "ptatiko-cpsc8750",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavaniTatikonda22/ptatiko-cpsc8750.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavaniTatikonda22/ptatiko-cpsc8750/issues"
+  },
+  "homepage": "https://github.com/PavaniTatikonda22/ptatiko-cpsc8750#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
